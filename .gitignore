@@ -12,3 +12,6 @@ node/
 .settings/
 
 out/
+data/
+logs/
+extensions/
