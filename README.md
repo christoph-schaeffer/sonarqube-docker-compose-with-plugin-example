@@ -12,7 +12,7 @@ npm i
 ### build backend
 Execute in the plugin directory:
 ```
-cd plugin && mvn clean package
+mvn clean package
 ```
 
 ### build & start sonarqube
